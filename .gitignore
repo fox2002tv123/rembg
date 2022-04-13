@@ -13,7 +13,7 @@ __pycache__/
 .python-version
 .idea
 *.jpg
-
+*.png
 # due to using tox and pytest
 .tox
 .cache
